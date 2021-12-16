@@ -86,3 +86,11 @@ app.listen(port, () => {
 })
 
 // Deploy to Heroku
+// heroku keys:add
+// heroku create yourappname
+// git status
+// git add .
+// git commit
+// git push
+// git remote
+// git push heroku master

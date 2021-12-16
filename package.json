@@ -1,5 +1,5 @@
 {
-  "name": "Weather App",
+  "name": "weather_app",
   "version": "1.0.0",
   "description": "nodejs cousre",
   "main": "app.js",
@@ -12,6 +12,6 @@
     "express": "^4.17.1",
     "hbs": "^4.2.0",
     "nodemon": "^2.0.15",
-    "request": "^2.88.2"
+    "postman-request": "^2.88.1-postman.30"
   }
 }
